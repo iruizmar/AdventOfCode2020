@@ -1,5 +1,5 @@
-import day14.Day14
+import day15.Day15
 
 fun main() {
-    println(Day14().part2())
+    println(Day15().part2())
 }
